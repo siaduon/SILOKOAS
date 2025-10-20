@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SILOKOAS - Sistem Informasi Logbook Koas",
+  "description": "A modern web application for managing co-assistant (koas) logbooks and assessments. Students can submit logbooks with AI-powered assistance, and lecturers can review and provide feedback efficiently.",
+  "requestFramePermissions": []
+}
